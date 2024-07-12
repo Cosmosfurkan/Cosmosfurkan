@@ -10,7 +10,7 @@ Software Engineer
 * 🖥️  See my portfolio at [My portfolio](http://github.com/Cosmosfurkan)
 * ✉️  You can contact me at [karahan.furkan@yahoo.com](mailto:karahan.furkan@yahoo.com)
 * 🚀  I'm currently working on [Machine learning model](http://github.com/Cosmosfurkan/classification-spaceship-)
-* 🧠  I'm learning C++,Tensorflow,Yolo,Mavlink
+* 🧠  I'm learning Python,Tensorflow,Docker,Javascript
 * 🤝  I'm open to collaborating on other artificial intelligence project
 
 <a href="https://www.github.com/Cosmosfurkan" target="_blank" rel="noreferrer"><img
